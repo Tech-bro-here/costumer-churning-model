@@ -1,6 +1,4 @@
-Here's a sample `README.md` file for your `costumer_churning.py` project, formatted for GitHub:
 
----
 
 # Customer Churn Prediction
 
